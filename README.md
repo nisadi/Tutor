@@ -21,4 +21,4 @@ Template for building similar Q&A systems in other domains
 Demonstration of NLP and ML in educational applications
 
 GitHub Repository
-View on GitHub 
+View on GitHub https://github.com/nisadi/Tutor/tree/main
